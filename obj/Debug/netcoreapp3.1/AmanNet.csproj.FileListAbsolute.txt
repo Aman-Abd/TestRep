@@ -1,0 +1,13 @@
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.exe
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.deps.json
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.runtimeconfig.json
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.runtimeconfig.dev.json
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.dll
+C:\Users\Аман\source\repos\AmanNet\bin\Debug\netcoreapp3.1\AmanNet.pdb
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.csprojAssemblyReference.cache
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.AssemblyInfoInputs.cache
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.AssemblyInfo.cs
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.csproj.CoreCompileInputs.cache
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.dll
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.pdb
+C:\Users\Аман\source\repos\AmanNet\obj\Debug\netcoreapp3.1\AmanNet.genruntimeconfig.cache
